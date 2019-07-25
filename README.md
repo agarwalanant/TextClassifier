@@ -1,2 +1,2 @@
 # TextClassifier
-Pricely Internship Screening Task
+Precily Internship Screening Task
